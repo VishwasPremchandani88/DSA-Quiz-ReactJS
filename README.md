@@ -1,22 +1,26 @@
 # DSA-Quiz-ReactJS
-Overview
+Overview:
+
 The DSA Quiz Web App is a versatile quiz application designed for companies and educational institutions. It enables you to create and manage quizzes for various purposes, including student assessments and recruitment tests. This README provides information on how to set up and use the application.
 
-Features
-Create and customize quiz questions.
-Multiple-choice answers.
-Real-time scoring.
-Detailed results.
-Easy-to-use web interface.
-Getting Started
+Features:
+
+1.Create and customize quiz questions.
+2.Multiple-choice answers.
+3.Real-time scoring.
+4.Detailed results.
+5.Easy-to-use web interface.
+6.Getting Started
 Follow these steps to get the DSA Quiz Web App up and running on your local machine.
 
-Prerequisites
-Node.js installed on your system.
-npm (Node Package Manager) installed on your system.
-Git for version control.
+Prerequisites:
 
-Installation
+1. Node.js installed on your system.
+2. npm (Node Package Manager) installed on your system.
+3. Git for version control.
+
+Installation:
+
 1. Clone the repo :
 git clone  https://github.com/VishwasPremchandani88/DSA-Quiz-ReactJS.git
 2. Change the project directory :
